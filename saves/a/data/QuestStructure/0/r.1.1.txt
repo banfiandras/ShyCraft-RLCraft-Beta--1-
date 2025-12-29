@@ -3,3 +3,4 @@ RLCraft_UndergroundRuin1,712,721,1015,1024
 StonePlantBoulder,606,616,980,990
 BrickHenge,603,619,971,987
 StonePlantMound4,739,746,970,977
+StonePlantMound3,779,790,990,999

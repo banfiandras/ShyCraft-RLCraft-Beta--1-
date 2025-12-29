@@ -116,7 +116,7 @@ key_key.xat.magnet_toggle_effect.desc:43
 key_key.xat.trinket_arcing_attack.desc:45
 key_key.xat.aux_key.desc:80
 key_key.xat.race_ability.desc:45
-key_key.spartanweaponry.access_quiver:23
+key_key.spartanweaponry.access_quiver:0
 key_key.toastcontrol.clear:36
 key_dshuds.keybind.SelectionBox:68
 key_dshuds.keybind.LightLevel:65
