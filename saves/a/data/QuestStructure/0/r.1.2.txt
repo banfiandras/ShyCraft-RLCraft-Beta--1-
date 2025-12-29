@@ -1,0 +1,8 @@
+UndergroundCrypt,606,620,1193,1221
+StonePlantMound1,702,708,1102,1108
+StonePlantMound3,661,672,1062,1071
+StonePlantMound1,665,671,1046,1052
+StonePlantMound2,548,560,1082,1095
+StonePlantMound1,757,763,1133,1139
+WoodWallRemains,777,805,1192,1200
+StonePlantMound2,789,801,1096,1109

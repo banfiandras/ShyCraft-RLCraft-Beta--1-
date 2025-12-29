@@ -1,0 +1,32 @@
+Registered ore Copper
+Registered ore Silver
+Registered ore Umbrium
+Stitching Textures
+Registered item texture for silver
+Registered item texture for umbrium
+Registered item texture for copper
+Registered block texture for copper
+Registered ore Iron
+Registered ore Gold
+Registering models
+Loading model for dynaores:copper_block.raw_ore#normal
+Loading model for dynaores:gold_block.raw_ore#normal
+Loading model for dynaores:iron_block.raw_ore#normal
+Loading model for dynaores:silver_block.raw_ore#normal
+Loading model for dynaores:umbrium_block.raw_ore#normal
+Loading model for dynaores:copper.raw_ore#normal
+Loading model for dynaores:gold.raw_ore#normal
+Loading model for dynaores:iron.raw_ore#normal
+Loading model for dynaores:silver.raw_ore#normal
+Loading model for dynaores:umbrium.raw_ore#normal
+Stitching Textures
+Registered item texture for silver
+Registered item texture for gold
+Registered item texture for umbrium
+Registered item texture for iron
+Registered item texture for copper
+Registered block texture for copper
+Loaded colour java.awt.Color[r=147,g=165,b=170] for Silver
+Loaded colour java.awt.Color[r=102,g=14,b=128] for Umbrium
+Loaded colour java.awt.Color[r=127,g=115,b=105] for Iron
+Loaded colour java.awt.Color[r=199,g=161,b=60] for Gold
